@@ -45,6 +45,7 @@
   #### 📕 Latest Blog Posts:
 
   <!-- BLOG-POST-LIST:START -->
+- [Seamless Application Monitoring with Custom Metrics Using Prometheus, Alertmanager, and Grafana: A…](https://medium.com/@godfreyifeanyi50/seamless-application-monitoring-with-custom-metrics-using-prometheus-alertmanager-and-grafana-a-bef3a85e36ec?source=rss-147458cff86a------2)
 - [Effortless Multi-Node Kubernetes Cluster Setup with Kubeadm: Automate the Process](https://medium.com/@godfreyifeanyi50/effortless-multi-node-kubernetes-cluster-setup-with-kubeadm-automate-the-process-35ed86b40435?source=rss-147458cff86a------2)
 - [Automating Jenkins RBAC Setup in Kubernetes: A Step-by-Step Guide](https://medium.com/@godfreyifeanyi50/automating-jenkins-rbac-setup-in-kubernetes-a-step-by-step-guide-f39eeee9d7b8?source=rss-147458cff86a------2)
 - [Resolving Stuck Kubernetes Namespaces](https://medium.com/@godfreyifeanyi50/resolving-stuck-kubernetes-namespaces-c4695a4c613d?source=rss-147458cff86a------2)
