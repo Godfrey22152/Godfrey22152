@@ -45,6 +45,7 @@
   #### 📕 Latest Blog Posts:
 
   <!-- BLOG-POST-LIST:START -->
+- [Mastering Canary Deployment with Argo Rollouts: A Step-by-Step Guide](https://medium.com/@godfreyifeanyi50/mastering-canary-deployment-with-argo-rollouts-a-step-by-step-guide-954d05624a38?source=rss-147458cff86a------2)
 - [Smart Traffic Switching: Enhancing Application Delivery with Blue-Green Deployment and CI/CD…](https://medium.com/@godfreyifeanyi50/smart-traffic-switching-enhancing-application-delivery-with-blue-green-deployment-and-ci-cd-a7a5654a414f?source=rss-147458cff86a------2)
 - [Setting Up a Multi-Node Kubernetes Workspace with Vagrant, Kubeadm, and MetalLB](https://medium.com/@godfreyifeanyi50/setting-up-a-multi-node-kubernetes-workspace-with-vagrant-kubeadm-and-metallb-c1b51d7d394e?source=rss-147458cff86a------2)
 - [Seamless Application Monitoring with Custom Metrics Using Prometheus, Alertmanager, and Grafana: A…](https://medium.com/@godfreyifeanyi50/seamless-application-monitoring-with-custom-metrics-using-prometheus-alertmanager-and-grafana-a-bef3a85e36ec?source=rss-147458cff86a------2)
