@@ -35,4 +35,4 @@ jobs:
         with:
 
           feed_list: "https://medium.com/feed/@godfreyifeanyi50"
-          max_post_count: 10
+          max_post_count: 20
