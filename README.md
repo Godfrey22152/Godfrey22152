@@ -45,6 +45,7 @@
   #### 📕 Latest Blog Posts:
 
   <!-- BLOG-POST-LIST:START -->
+- [Closing the Docker Credential Leak in CI/CD](https://medium.com/@godfreyifeanyi50/closing-the-docker-credential-leak-in-ci-cd-824a63dd4f3d?source=rss-147458cff86a------2)
 - [Secure and Compliant QA Pipeline for Continuous Integration with Jenkins](https://medium.com/@godfreyifeanyi50/secure-and-compliant-qa-pipeline-for-continuous-integration-with-jenkins-3dbf6cd04fa4?source=rss-147458cff86a------2)
 - [Supercharge Your DevOps Workflow with Persistent Aliases](https://medium.com/@godfreyifeanyi50/supercharge-your-devops-workflow-with-persistent-aliases-0f08619e2dcc?source=rss-147458cff86a------2)
 - [Mastering Canary Deployment with Argo Rollouts: A Step-by-Step Guide](https://medium.com/@godfreyifeanyi50/mastering-canary-deployment-with-argo-rollouts-a-step-by-step-guide-954d05624a38?source=rss-147458cff86a------2)
@@ -54,7 +55,6 @@
 - [Effortless Multi-Node Kubernetes Cluster Setup with Kubeadm: Automate the Process](https://medium.com/@godfreyifeanyi50/effortless-multi-node-kubernetes-cluster-setup-with-kubeadm-automate-the-process-35ed86b40435?source=rss-147458cff86a------2)
 - [Automating Jenkins RBAC Setup in Kubernetes: A Step-by-Step Guide](https://medium.com/@godfreyifeanyi50/automating-jenkins-rbac-setup-in-kubernetes-a-step-by-step-guide-f39eeee9d7b8?source=rss-147458cff86a------2)
 - [Resolving Stuck Kubernetes Namespaces](https://medium.com/@godfreyifeanyi50/resolving-stuck-kubernetes-namespaces-c4695a4c613d?source=rss-147458cff86a------2)
-- [Mastering Application Monitoring: A Comprehensive Guide to Setting Up Prometheus, Grafana, and More](https://medium.com/@godfreyifeanyi50/mastering-application-monitoring-a-comprehensive-guide-to-setting-up-prometheus-grafana-and-more-e60227dad996?source=rss-147458cff86a------2)
 <!-- BLOG-POST-LIST:END -->
 
 <b>Read More:</b>
