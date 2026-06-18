@@ -45,6 +45,8 @@
   #### 📕 Latest Blog Posts:
 
   <!-- BLOG-POST-LIST:START -->
+- [No Grafana.](https://medium.com/@godfreyifeanyi50/no-grafana-0e8503c1f4cf?source=rss-147458cff86a------2)
+- [Your Signed Container Image Means Nothing If You Signed the Tag—Here&#39;s How I Did It Right with…](https://medium.com/@godfreyifeanyi50/your-signed-container-image-means-nothing-if-you-signed-the-tag-heres-how-i-did-it-right-with-78d39dddb795?source=rss-147458cff86a------2)
 - [How I Built a Single GitHub Actions Orchestrator That Runs Security, Docker, Signing, and GitOps…](https://medium.com/@godfreyifeanyi50/how-i-built-a-single-github-actions-orchestrator-that-runs-security-docker-signing-and-gitops-b9ba8076b8f2?source=rss-147458cff86a------2)
 - [Container Image Signing and Verification in Jenkins CI/CD with Sigstore Cosign and HashiCorp Vault](https://medium.com/@godfreyifeanyi50/container-image-signing-and-verification-in-jenkins-ci-cd-with-sigstore-cosign-and-hashicorp-vault-0dc522a5488f?source=rss-147458cff86a------2)
 - [Closing the Docker Credential Leak in CI/CD](https://medium.com/@godfreyifeanyi50/closing-the-docker-credential-leak-in-ci-cd-824a63dd4f3d?source=rss-147458cff86a------2)
@@ -53,8 +55,6 @@
 - [Mastering Canary Deployment with Argo Rollouts: A Step-by-Step Guide](https://medium.com/@godfreyifeanyi50/mastering-canary-deployment-with-argo-rollouts-a-step-by-step-guide-954d05624a38?source=rss-147458cff86a------2)
 - [Smart Traffic Switching: Enhancing Application Delivery with Blue-Green Deployment and CI/CD…](https://medium.com/@godfreyifeanyi50/smart-traffic-switching-enhancing-application-delivery-with-blue-green-deployment-and-ci-cd-a7a5654a414f?source=rss-147458cff86a------2)
 - [Setting Up a Multi-Node Kubernetes Workspace with Vagrant, Kubeadm, and MetalLB](https://medium.com/@godfreyifeanyi50/setting-up-a-multi-node-kubernetes-workspace-with-vagrant-kubeadm-and-metallb-c1b51d7d394e?source=rss-147458cff86a------2)
-- [Seamless Application Monitoring with Custom Metrics Using Prometheus, Alertmanager, and Grafana: A…](https://medium.com/@godfreyifeanyi50/seamless-application-monitoring-with-custom-metrics-using-prometheus-alertmanager-and-grafana-a-bef3a85e36ec?source=rss-147458cff86a------2)
-- [Effortless Multi-Node Kubernetes Cluster Setup with Kubeadm: Automate the Process](https://medium.com/@godfreyifeanyi50/effortless-multi-node-kubernetes-cluster-setup-with-kubeadm-automate-the-process-35ed86b40435?source=rss-147458cff86a------2)
 <!-- BLOG-POST-LIST:END -->
 
 <b>Read More:</b>
